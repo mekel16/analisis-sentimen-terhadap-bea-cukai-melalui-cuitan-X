@@ -1,6 +1,5 @@
 # Analisis Sentimen Terhadap Bea Cukai MelaluoI Cuitan X
 
-Deskripsi singkat tentang proyek ini.
 
 ## Daftar Isi
 1. [Tentang Proyek](#tentang-proyek)
